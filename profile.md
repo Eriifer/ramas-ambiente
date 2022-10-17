@@ -1,1 +1,5 @@
-Los integrantes son: Sebastian Carmona 
+## Los integrantes son: 
+Sebastian Carmona 
+Christian
+Erika
+Elena
